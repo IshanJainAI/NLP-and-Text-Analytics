@@ -5,4 +5,13 @@ It accomplishes this by combining machine learning and natural language processi
 Sentiment analysis allows us to examine the feelings expressed in a piece of text.
 
 
+# Author
+Ishan Jain
+ 
+# LinkedIn
+https://www.linkedin.com/in/ishanjainofficial/
+ 
+# Medium.com
+https://medium.com/@ishanjain-ai
+
 
